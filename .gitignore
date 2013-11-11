@@ -39,3 +39,9 @@ nosetests.xml
 #swap and tmp
 *.swp
 *~
+
+#resource
+resource/
+
+#tester
+tester/
