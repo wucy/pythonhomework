@@ -40,8 +40,8 @@ nosetests.xml
 *.swp
 *~
 
-#resource
-resource/
+#data
+data/
 
 #tester
 tester/
